@@ -110,8 +110,8 @@
         <div class="eight wide column">
           <h2 class="ui inverted header">Links</h2>
           <div class="ui inverted link list">
-            <a href="https://github.com/FrandeSUG" class="item">Github</a>
-            <a href="https://twitter.com/FrandeSugianto" class="item">Twitter</a>
+            <a href="https://github.com/FrandeSUG" class="item" target="_blank">Github</a>
+            <a href="https://twitter.com/FrandeSugianto" class="item" target="_blank">Twitter</a>
           </div>
         </div>
           <div class="eight wide column">

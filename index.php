@@ -1,1 +1,1 @@
-<?php include ("https://frande.herokuapp.com/main.html"); ?>
+<?php include ("main.html"); ?>

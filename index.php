@@ -27,7 +27,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 <body>
-  <a name="top"></a>
+  
       <div class="ui menu large top fixed inverted">
         <div class="ui container">
         <div class="item">
@@ -38,6 +38,7 @@
       </div>
     </div>
  <!-- Page Contents -->
+ <a name="top"></a>
 <div class="pusher">
 
   <div class="ui inverted vertical masthead segment">

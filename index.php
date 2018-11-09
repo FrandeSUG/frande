@@ -44,7 +44,7 @@
   <div class="ui inverted vertical masthead segment">
     <div class="ui text container">
       <h1 class="ui inverted header">
-        Introduction
+        About
       </h1>
       <h2>
         WONG HOCK CHUAN SUGIANTO<br>専門学校東京クールジャパン<br>ゲーム総合学科ゲームプログラマー専攻

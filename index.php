@@ -26,7 +26,8 @@
   <meta name="theme-color" content="#ffffff">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
-<body>  
+<body>
+  <a name="top"></a>
       <div class="ui menu large top fixed inverted">
         <div class="ui container">
         <div class="item">
@@ -109,7 +110,7 @@
           <h2 class="ui inverted header">Links</h2>
           <div class="ui inverted link list">
             <a href="https://github.com/FrandeSUG" class="item">Github</a>
-            <a href="#" class="item">Twitter</a>
+            <a href="https://twitter.com/FrandeSugianto" class="item">Twitter</a>
           </div>
         </div>
           <div class="eight wide column">
